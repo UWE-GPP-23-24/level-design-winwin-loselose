@@ -1,0 +1,57 @@
+complete in 4 mins
+playable with controller
+don't modify: mechanics, checkpoints and cheats
+no bought assets
+environmental storytelling
+use blockouts
+
+signs which help guide you
+hazard sign robot cowering as a barrel explodes
+a safety sign a robot freezing a pool of lava and fire
+a hazard sign to not swing on chandeliers, it is dangerous
+safety sign trampoline slime
+
+
+level design
+your brother is in a fire at the top of the building,
+as you go up the building gets hotter and hotter, more fire.
+you use your ice abilities to climb higher and higher, until you save your brother
+
+
+environmental storytelling
+at the start, pan camera to brother in window, looking out panicking
+pan to player, player scared. player runs inside building
+to escape you must clear the way, stopping the fires and eventually retrieving your brother
+as you reach your brother, you make an ice slide down the building.
+
+progression through
+first layer
+certain parts of the floor are on fire, fire pillars coming up from the floor randomly  
+there are explosive barrels, you must maneuver your way around and not get killed
+the roof is mostly gone
+
+second layer
+swinging from chandeliers(platforms) as fire shoots from a turret(like fire falling from a roof)
+falling down makes you go to the first layer
+you jump on a slime platform to reach the third layer
+
+third layer
+the villains appear (boom bots and turrets), these are the arsonists, you must stop them and escape
+
+fourth layer
+focus on lava, moving platforms, barrels, slime
+the final hurdle, the hardest challenge. everything is a mess and it is the reason your friend could not leave
+
+fifth layer
+you walk into your friend
+
+
+TO DO;;/
+
+make signs,
+add remains of robots
+make a glass texture, add glass through the level
+tweak player values to feel better
+make platforms a little bigger to jump on
+add 1 more floor, a final gauntlet of everything
+friend floor
