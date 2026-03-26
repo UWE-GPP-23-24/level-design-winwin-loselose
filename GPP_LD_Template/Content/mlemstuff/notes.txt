@@ -52,6 +52,14 @@ make signs,
 add remains of robots
 make a glass texture, add glass through the level
 tweak player values to feel better
+reduce freeze size
+add music(?)
+make more textures
+make some 3d models
+make the building look more like a burning down building
+add pillars of fire to last level (moving platform with a lava child or smthn)
+make the player anims faster?
+make camera a little more comfortable
 make platforms a little bigger to jump on
 add 1 more floor, a final gauntlet of everything
 friend floor
