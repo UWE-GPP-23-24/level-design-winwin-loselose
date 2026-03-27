@@ -50,6 +50,7 @@ TO DO;;/
 
 make signs,
 add remains of robots
+fix ai not following
 make a glass texture, add glass through the level
 tweak player values to feel better
 reduce freeze size
