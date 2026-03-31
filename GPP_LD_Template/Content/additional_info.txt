@@ -1,0 +1,16 @@
+keyboard controls:
+WASD: Movement
+Mouse: Camera
+Space: Jump/Double Jump
+P: Pause
+F: Freeze ability
+Shift: Dash
+
+
+controller controls:
+Left Stick: Movement
+Right Stick: Camera
+South Button: Jump/Double Jump
+Start: Pause
+West Button: Freeze
+Left Bumper: Dash
